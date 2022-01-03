@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+matplotlib = "*"
+numpy = "*"
+tensorflow = "*"
+pandas = "*"
+ipykernel = "*"
+kaggle = "*"
 
 [dev-packages]
 
