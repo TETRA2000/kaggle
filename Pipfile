@@ -9,7 +9,6 @@ numpy = "*"
 tensorflow = "*"
 pandas = "*"
 ipykernel = "*"
-kaggle = "*"
 
 [dev-packages]
 
